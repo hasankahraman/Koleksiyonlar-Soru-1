@@ -1,0 +1,16 @@
+D:\patika\practises\Koleksiyonlar-Soru-1\bin\Debug\net5.0\Koleksiyonlar-Soru-1.exe
+D:\patika\practises\Koleksiyonlar-Soru-1\bin\Debug\net5.0\Koleksiyonlar-Soru-1.deps.json
+D:\patika\practises\Koleksiyonlar-Soru-1\bin\Debug\net5.0\Koleksiyonlar-Soru-1.runtimeconfig.json
+D:\patika\practises\Koleksiyonlar-Soru-1\bin\Debug\net5.0\Koleksiyonlar-Soru-1.runtimeconfig.dev.json
+D:\patika\practises\Koleksiyonlar-Soru-1\bin\Debug\net5.0\Koleksiyonlar-Soru-1.dll
+D:\patika\practises\Koleksiyonlar-Soru-1\bin\Debug\net5.0\ref\Koleksiyonlar-Soru-1.dll
+D:\patika\practises\Koleksiyonlar-Soru-1\bin\Debug\net5.0\Koleksiyonlar-Soru-1.pdb
+D:\patika\practises\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.csproj.AssemblyReference.cache
+D:\patika\practises\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\patika\practises\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.AssemblyInfoInputs.cache
+D:\patika\practises\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.AssemblyInfo.cs
+D:\patika\practises\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.csproj.CoreCompileInputs.cache
+D:\patika\practises\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.dll
+D:\patika\practises\Koleksiyonlar-Soru-1\obj\Debug\net5.0\ref\Koleksiyonlar-Soru-1.dll
+D:\patika\practises\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.pdb
+D:\patika\practises\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.genruntimeconfig.cache
